@@ -1,5 +1,3 @@
-from django.apps import AppConfig
+from django.contrib import admin
 
-
-class AlbumsConfig(AppConfig):
-    name = 'albums'
+# Register your models here.
